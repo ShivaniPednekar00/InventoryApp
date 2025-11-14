@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+body { font-family: Arial; margin: 20px; }
+.container { max-width: 800px; margin: auto; }
+.btn { padding: 8px 14px; background: black; color: #fff; text-decoration: none; border-radius: 5px; margin: 5px 0; display: inline-block; }
+.table, table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+th, td { border: 1px solid #ccc; padding: 8px; }
+.form-group { margin: 10px 0; }
+.material-row { display: grid; grid-template-columns: repeat(5, 1fr) 80px 80px 80px; gap: 6px; padding: 10px; border: 1px solid #ddd; margin: 10px 0; }
+.save { background: green; }
