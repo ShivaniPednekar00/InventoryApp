@@ -1,16 +1,37 @@
-# React + Vite
+InventoryApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Inventory Management Application built using React + Tailwind CSS.
+This app helps you efficiently track, manage, and organize your product inventory with a clean and responsive UI.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➕ Add new inventory items
+✏️ Edit and update existing items
+❌ Delete items
+📊 Track stock levels
+📱 Fully responsive UI using Tailwind CSS
+⚡ Fast and lightweight
+🧩 Easy-to-extend component structure
 
-## React Compiler
+Tech Stack
+React JS (Vite)
+Tailwind CSS
+JavaScript
+HTML
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Installation & Setup
 
-## Expanding the ESLint configuration
+Clone the repository:
+git clone https://github.com/ShivaniPednekar00/InventoryApp.git
+Go inside the folder:
+cd InventoryApp
+Install dependencies:
+npm install
+Run development server:
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Author
+
+Shivani Pednekar
+GitHub: https://github.com/ShivaniPednekar00
+
